@@ -4,7 +4,7 @@
 
 <br>
 
-Welcome to my DataQuest data science learning pathway! This repository contains a code dump of various code completed during a number of DataQuest courses within [Data Scientist in Python](https://app.dataquest.io/learning-path/data-scientist/v1/) program. 
+Welcome to my DataQuest data science learning pathway! This repository contains a code dump of various code completed during a number of DataQuest courses within [Data Scientist in Python](https://www.dataquest.io/path/data-scientist/) program. 
 
 ## Courses and Projects
 
