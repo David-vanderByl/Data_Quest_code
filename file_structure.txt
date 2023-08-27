@@ -1,0 +1,114 @@
+├─ sql-fundamentals/
+│  ├─ Subqueries-255.sql
+│  ├─ Introduction to SQL-252.sql
+│  ├─ Group Summary Statistics-254.sql
+│  ├─ Summary Statistics-253.sql
+├─ statistics-intermediate/
+│  ├─ Z-scores-309.py
+│  ├─ The Weighted Mean and the Median-306.py
+│  ├─ The Mean-305.py
+│  ├─ The Mode-307.py
+│  ├─ Measures of Variability-308.py
+├─ text-processing-cli/
+│  ├─ Getting Help and Reading Documentation-388.sh
+│  ├─ File Inspection-389.sh
+│  ├─ Redirection and Pipelines-391.sh
+│  ├─ Text Processing-390.sh
+│  ├─ Standard Streams and File Descriptors-392.sh
+├─ probability-fundamentals/
+│  ├─ Solving Complex Probability Problems-379.py
+│  ├─ Permutations and Combinations-380.py
+│  ├─ Estimating Probabilities-377.py
+│  ├─ Probability Rules-378.py
+├─ data-cleaning/
+│  ├─ Data Cleaning Walkthrough-136.py
+│  ├─ Challenge: Cleaning Data-102.py
+│  ├─ Data Cleaning Walkthrough: Analyzing and Visualizing the Data-138.py
+│  ├─ Data Cleaning Walkthrough: Combining the Data-137.py
+├─ sql-joins-relations/
+│  ├─ Building and Organizing Complex Queries-190.sql
+│  ├─ Table Relations and Normalization-192.sh
+│  ├─ Joining Data in SQL-179.sql
+│  ├─ Querying SQLite from Python-256.py
+│  ├─ Intermediate Joins in SQL-189.sql
+├─ README.md
+├─ command-line-elements/
+│  ├─ The Filesystem-384.sh
+│  ├─ Glob Patterns and Wildcards-386.sh
+│  ├─ Modifying the Filesystem-385.sh
+│  ├─ Users and Permissions-387.sh
+│  ├─ Introduction to the Command Line-383.sh
+├─ python-data-cleaning-advanced/
+│  ├─ List Comprehensions and Lambda Functions-355.py
+│  ├─ Working with Missing Data-370.py
+│  ├─ Regular Expression Basics-354.py
+│  ├─ Advanced Regular Expressions-369.py
+├─ Data_Quest_code.code-workspace
+├─ statistics-fundamentals/
+│  ├─ Visualizing Frequency Distributions-286.py
+│  ├─ Comparing Frequency Distributions-287.py
+│  ├─ Variables in Statistics-284.py
+│  ├─ Sampling-283.py
+│  ├─ Frequency Distributions-285.py
+├─ apis-and-scraping/
+│  ├─ Intermediate APIs-53.py
+│  ├─ Web Scraping-54.py
+│  ├─ Working with APIs-52.py
+│  ├─ Challenge: Working with the reddit API-110.py
+├─ .gitignore
+├─ introduction-to-supervised-machine-learning-in-python/
+│  ├─ Hyperparameter Optimization-739.py
+│  ├─ The Machine Learning Workflow-736.py
+│  ├─ Introduction to K-Nearest Neighbors-737.py
+│  ├─ Evaluating Model Performance-738.py
+├─ python-for-data-science-intermediate/
+│  ├─ Python Data Analysis Basics-331.py
+│  ├─ Working with Dates and Times in Python-353.py
+│  ├─ Cleaning and Preparing Data in Python-351.py
+│  ├─ Object-Oriented Python-352.py
+├─ data-visualization-fundamentals/
+│  ├─ Scatter Plots and Correlations-521.py
+│  ├─ Pandas Visualizations and Grid Charts-523.py
+│  ├─ Relational Plots and Multiple Variables-573.py
+│  ├─ Bar Plots, Histograms, and Distributions-522.py
+│  ├─ Line Graphs and Time Series-520.py
+├─ python-datacleaning/
+│  ├─ Combining Data Using Pandas-344.py
+│  ├─ Working with Strings In Pandas-346.py
+│  ├─ Transforming Data with Pandas-345.py
+│  ├─ Data Aggregation-343.py
+│  ├─ Working With Missing And Duplicate Data-347.py
+├─ conditional-probability/
+│  ├─ The Naive Bayes Algorithm-432.py
+│  ├─ Conditional Probability: Intermediate-430.py
+│  ├─ Bayes Theorem-431.py
+│  ├─ Conditional Probability: Fundamentals-429.py
+├─ pandas-fundamentals/
+│  ├─ Exploring Data with Pandas: Intermediate-292.py
+│  ├─ Boolean Indexing with NumPy-290.py
+│  ├─ Exploring Data with Pandas: Fundamentals-381.py
+│  ├─ Introduction to NumPy-289.py
+│  ├─ Data Cleaning Basics-293.py
+│  ├─ Introduction to pandas-291.py
+├─ file_structure.txt
+├─ data-analysis-business/
+│  ├─ Business Metrics      -468.py
+│  ├─ Communicating Results-467.py
+│  ├─ Fuzzy Language in Data Science-466.py
+├─ storytelling-information-design/
+│  ├─ Storytelling Data Visualization-526.py
+│  ├─ Design for an Audience-525.py
+│  ├─ Gestalt Principles and Pre-Attentive Attributes-527.py
+│  ├─ Matplotlib Styles: FiveThirtyEight Case Study-528.py
+├─ python-functions-and-learn-jupyter-notebook/
+│  ├─ Python Functions: Built-in Functions and Multiple Return Statements-647.py
+│  ├─ Python Functions: Returning Multiple Variables and Function Scopes-648.py
+├─ dictionaries-frequency-tables-and-functions-in-python/
+│  ├─ Python Functions: Arguments, Parameters, and Debugging-646.py
+│  ├─ Python Dictionaries-643.py
+│  ├─ Python Dictionaries and Frequency Tables-644.py
+│  ├─ Python Functions: Using Built-in Functions and Creating Functions-645.py
+├─ probability-statistics-intermediate/
+│  ├─ Chi-Squared Tests-99.py
+│  ├─ Significance Testing-106.py
+│  ├─ Multi-Category Chi-Squared Tests-100.py
